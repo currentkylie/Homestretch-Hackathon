@@ -13,7 +13,7 @@ Prior to the Hackathon, please join our groups:
 
 October 7, 2016
 
-On October 7, come to the hackathon ready to pitch your idea, vote, and join a team.  We want to build and ship as much as possible, so we will move quickly through the idea generation and team forming phases.
+Come to the hackathon ready to pitch your idea, vote, and join a team.  We want to build and ship as much as possible, so we will move quickly through the idea generation and team forming phases.
 
 Anatomy of a Two-minute Homestretch Hackathon Pitch
 
