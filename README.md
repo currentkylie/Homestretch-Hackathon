@@ -9,7 +9,7 @@ Prior to the Hackathon, please join our groups:
 2. Setup access to DevProgress in Slack, GitHub, and Trello
 3. Join #local-san-francisco and #team-hackathon on Slack
 4. Review GitHub and Trello to see what we're working on to better understand the ideas that are out there and where you can add value
-5. For existing project leaders, update your GitHub Issues and Trello so that people know what you need; also we may be bandwidth challenges so please plan to download local copies of things that you may need
+5. For existing project leaders, update your GitHub Issues and Trello so that people know what you need; also we may be bandwidth challenged so please plan to download local copies of things that you may need
 
 October 7, 2016
 
