@@ -5,7 +5,7 @@ To make the most of our time together, please follow these procedures.  Many of 
 
 Prior to the Hackathon, please join our groups:
 
-1. Sign up to be a DevProgress member, and follow the onboarding procedures including Code of Conduct, Acceptable Licenses, Contributor and Contributor Agreement.  Get started here:  https://devprogress.us/
+1. Sign up to be a DevProgress member, and follow the onboarding procedures including Code of Conduct, Acceptable Licenses, and Contributor Agreement.  Get started here:  https://devprogress.us/
 2. Setup access to DevProgress in Slack, GitHub, and Trello
 3. Join #local-san-francisco and #team-hackathon on Slack
 4. Review GitHub and Trello to see what we're working on to better understand the ideas that are out there and where you can add value
