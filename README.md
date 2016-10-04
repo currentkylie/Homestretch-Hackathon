@@ -19,12 +19,12 @@ Anatomy of a Two-minute Homestretch Hackathon Pitch
 
 1. State your name
 2. State the Challenge that your idea addresses
-   Register more voters
-   Improve early voter turnout
-   Improve voter turnout
-   Recruit more volunteers
-   Collect more donations
-   Amplify our messaging
+   A) Register more voters
+   B) Improve early voter turnout
+   C) Improve voter turnout
+   D) Recruit more volunteers
+   E) Collect more donations
+   F) Amplify our messaging
 3. State your idea and how it addresses the challenge
 4. State the resources that you need:  designer, developer, QA, etc.
 
